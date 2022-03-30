@@ -59,4 +59,4 @@
 <br/>
 
 ## Visitor
-![xiao-cao-x](https://count.getloli.com/get/@xiao-cao-x?theme=rule34)
+<img src="https://count.getloli.com/get/@xiao-cao-x" alt="xiao-cao-x" />
