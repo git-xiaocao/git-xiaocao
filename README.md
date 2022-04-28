@@ -47,15 +47,15 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xiao-cao-x&show_icons=true&count_private=true&hide_border=true&theme=omni" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=git-xiaocao&show_icons=true&count_private=true&hide_border=true&theme=omni" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiao-cao-x&hide_border=true&layout=compact&theme=omni&hide=javascript" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-xiaocao&hide_border=true&layout=compact&theme=omni&hide=javascript" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>
 
 ## Visitor
-<img src="https://count.getloli.com/get/@xiao-cao-x?theme=rule34" alt="xiao-cao-x" />
+<img src="https://count.getloli.com/get/@git-xiaocao?theme=moebooru-h" alt="git-xiaocao" />
