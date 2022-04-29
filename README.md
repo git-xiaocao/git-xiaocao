@@ -58,4 +58,4 @@
 <br/>
 
 ## Visitor
-<img src="https://count.getloli.com/get/@xiao-cao-x?theme=gelbooru-h" alt="git-xiaocao" />
+<img src="https://count.getloli.com/get/@xiao-cao-x?theme=rule34" alt="git-xiaocao" />
