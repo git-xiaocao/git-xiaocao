@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning: Rust
 - 📫 How to reach me: Email
 - ⚡ Fun fact: I never went to university
-
+- ⭐ I do not have a job
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
