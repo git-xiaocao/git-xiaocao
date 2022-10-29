@@ -1,7 +1,6 @@
 ## 👋 Hi there
 - 🌱 I’m currently learning: Rust
 - 📫 How to reach me: Email
-- ⭐ I do not have a job
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
